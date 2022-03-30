@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycler view</string>
+    <string name="hey_you_have_selected_the_item">Hey you have selected the item!</string>
+    <color name="Primary">#FFFFFF</color>
+
+
+
+</resources>
